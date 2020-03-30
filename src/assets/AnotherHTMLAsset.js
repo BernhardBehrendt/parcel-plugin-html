@@ -23,6 +23,9 @@ const ATTRS = {
     'iframe',
     'embed'
   ],
+  'data-highres': [
+    'img'
+  ]
   href: ['link', 'a'],
   poster: ['video'],
   'xlink:href': ['use'],
