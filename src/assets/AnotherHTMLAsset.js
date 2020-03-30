@@ -25,7 +25,7 @@ const ATTRS = {
   ],
   'data-highres': [
     'img'
-  ]
+  ],
   href: ['link', 'a'],
   poster: ['video'],
   'xlink:href': ['use'],
